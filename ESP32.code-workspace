@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/ESP32"
+		},
+		{
+			"name": "MiM_Projekt",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
