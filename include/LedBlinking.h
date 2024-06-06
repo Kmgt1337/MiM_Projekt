@@ -4,6 +4,6 @@
 #include <Wire.h>
 
 void setupLed(uint8_t gpio = 2);
-void blinkLed(uint8_t gpio = 2, uint32_t timeout = 500);
+void blinkLed(uint8_t gpio = 2);
 
 #endif

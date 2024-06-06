@@ -6,4 +6,5 @@ void displayDataRate();
 void displayRange();
 void setupSensor();
 
+void handleInterrupt();
 #endif
